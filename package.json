@@ -1,11 +1,6 @@
 {
   "name": "ionic5-star-rating",
   "version": "0.0.1",
-  "peerDependencies": {
-    "@angular/common": "^8.2.14",
-    "@angular/core": "^8.2.14",
-    "@ionic/angular": "^5.0.0"
-  },
   "main": "bundles/ionic5-star-rating.umd.js",
   "module": "fesm5/ionic5-star-rating.js",
   "es2015": "fesm2015/ionic5-star-rating.js",
